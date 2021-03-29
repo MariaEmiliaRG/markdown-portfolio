@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Hi there!](https://github.com/MariaEmiliaRG/markdown-portfolio/_includes/Repo.gif)
